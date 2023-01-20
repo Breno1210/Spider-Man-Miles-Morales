@@ -32,10 +32,10 @@
 
    ```bash
    # Clone this repository
-   $ git clone https://github.com/Breno1210/Project-Spiderman---Mile-Morales.git
+   $ git clone https://github.com/Breno1210/Spider-Man-Miles-Morales.git
 
    # Go into the repository
-   $ cd Project-Nubank
+   $ cd Spider-Man-Miles-Morales
    ```
 
 2. Install the extension Live Server
