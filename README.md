@@ -1,4 +1,6 @@
-# Project-Spiderman-Mile-Morales
+<h1 align="center">
+    Project-Spiderman-Mile-Morales
+</h1>
 <h1 align="center">
     <img alt="Logo" src="img/spiderman-text.png" />
     <br>
